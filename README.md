@@ -1,16 +1,23 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 
-<!--
-**karpss/karpss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Ola 
+## Frontend Engineer 👨🏾‍💻
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/Gmail-olafamu24%40gmail.com-red)](mailto:olafamu24@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const ola = {
+    askMeAbout: ["web dev"],
+    technologies:{
+        code: ["JavaScript", "TypeScript"],
+        fronEnd: ["react.js", "next.js", "vue.js"],
+        backEnd: ["nodejs", "express"],
+        database: ["mongodb"]
+    }
+}
+```
+
+---
