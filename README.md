@@ -13,7 +13,7 @@ const ola = {
     askMeAbout: ["web dev"],
     technologies:{
         code: ["JavaScript", "TypeScript"],
-        fronEnd: ["react.js", "next.js", "vue.js"],
+        fronEnd: ["react.js", "next.js"],
         backEnd: ["nodejs", "express"],
         database: ["mongodb"]
     }
