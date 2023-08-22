@@ -1,7 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 
-## Hi, I'm Ola 
-## Frontend Engineer 👨🏾‍💻
+## Hi, I'm Ola 👨🏾‍💻
 
 
 
@@ -9,12 +8,12 @@
 
 ```javascript
 const ola = {
-    askMeAbout: ["web dev"],
+    askMeAbout: ["web dev", "mobile dev"],
     technologies:{
         code: ["JavaScript", "TypeScript"],
         fronEnd: ["react.js", "vue.js"],
-        backEnd: ["nodejs", "express"],
-        database: ["mongodb"]
+        mobile: ["react native"],
+        backEnd: ["nodejs", "php"]
     }
 }
 ```
