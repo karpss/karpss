@@ -13,7 +13,7 @@ const ola = {
         code: ["JavaScript", "TypeScript"],
         fronEnd: ["react.js", "vue.js"],
         mobile: ["react native"],
-        backEnd: ["nodejs", "php"]
+        backEnd: ["nodejs", "php", "python"]
     }
 }
 ```
